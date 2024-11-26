@@ -1,6 +1,6 @@
 # Bootstrap Practice Project
 
-THis is online music platform. This project is created using HTML and Bootstrap. It serves as a learning resource to practice and improve skills in Bootstrap, a popular front-end framework for designing responsive and mobile-first websites.
+This is an online music platform. This project is created using HTML and Bootstrap. It serves as a learning resource to practice and improve skills in Bootstrap, a popular front-end framework for designing responsive and mobile-first websites.
 
 ## Features
 
